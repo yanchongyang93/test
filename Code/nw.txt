@@ -1,1 +1,3 @@
 haha wohuile
+
+这个是我基本学习完成git后的操作。
